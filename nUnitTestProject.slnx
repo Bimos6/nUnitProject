@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="NumberCompressor.Tests/NumberCompressor.Tests.csproj" />
+  <Project Path="NumberCompressor/NumberCompressor.csproj" />
+</Solution>
